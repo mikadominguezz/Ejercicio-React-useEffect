@@ -4,6 +4,9 @@
 ## Ejercicio 1
 Contador con título dinámico Crea un contador con un botón que incremente el valor. Usa useEffect para actualizar el título de la pestaña (document.title) cada vez que el contador cambie.
 
+### Notas
+
+
 ## Ejercicio 2
 Input que guarda en localStorage Crea un input controlado. Usa useEffect para guardar el valor en localStorage cada vez que el usuario escriba. Al cargar el componente, inicializa el valor desde localStorage.
 
