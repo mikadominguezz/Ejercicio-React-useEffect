@@ -2,7 +2,9 @@
 
 
 ## Ejercicio 1
-Contador con título dinámico Crea un contador con un botón que incremente el valor. Usa useEffect para actualizar el título de la pestaña (document.title) cada vez que el contador cambie.
+Contador con título dinámico: Crea un contador con un botón que incremente el valor. Usa useEffect para actualizar el título de la pestaña (document.title) cada vez que el contador cambie.
+
+Primero se utilizó el useState para inicializar el contador a 0 y que cada que se usa la función de setCount, este contador tome el nuevo valor que se le haya asignado. En este caso se hace un botón que una vez que se aprete (onClick) se incremente el valor del contador por uno. El useEffect lo que hace en este caso es mostrar los nuevos valores de el contador en el título del documento. 
 
 ### Notas
 
